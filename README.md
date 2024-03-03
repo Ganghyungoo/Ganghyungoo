@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=00FF00&text=Android%20Developer🎇&fontAlignY=36&fontSize=50&fontAlign=64&reversal=false&fontColor=000000)
 
 <p align="center">
-반갑습니다 단 한 줄의 코드라도 서비스의 가치를 담으려고 노력하는 안드로이드 개발자 입니다
+반갑습니다! 단 한 줄의 코드라도 서비스의 가치를 담으려고 노력하는 안드로이드 개발자입니다
 </p>
 <h3 align="center">📚 My skills 📚</h3>
 <p align="center">
