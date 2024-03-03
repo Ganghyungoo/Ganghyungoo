@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://kaput-viper-71a.notion.site/057dab0e10be40c19210be805f22c0a7?v=58090462cee249bbb29641cd6e662f3f&pvs=4"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Android&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
-  <a href="sorigusrn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qotndus950403@gmail.com"/></a>
+  <a href="sorigusrn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sorigusrn@gmail.com"/></a>
 </p>
 
